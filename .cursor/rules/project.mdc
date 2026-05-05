@@ -1,0 +1,23 @@
+---
+description: Always follow these rules when working in this project.
+globs: "**/*"
+---
+
+# Project Rules
+
+## Session continuity
+
+Before doing anything, check if `plan.md` and `memory.md` exist in the repo root.
+If they do, read them first — they contain the project plan, progress, and architectural
+decisions from previous sessions (possibly from a different agent or interface).
+
+Pick up where the last session left off. Do not restart or re-plan work that is already done.
+
+## Working style
+
+- Commit to feature branches, never to `main`.
+- Update `plan.md` when you complete tasks.
+- Update `memory.md` when you make architectural decisions.
+- Keep responses concise — the user may be reading on a phone.
+- Ask one question at a time.
+- Be direct. No filler.
