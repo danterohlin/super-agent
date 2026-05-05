@@ -3,14 +3,14 @@
 ## Tasks
 
 - [x] Branch + architecture notes (`memory.md`, this file)
-- [ ] Node/TS project: grammy, Anthropic SDK, Octokit, SQLite, zod
-- [ ] Config + `.env.example`
-- [ ] SQLite schema: messages + memory KV + migrations/bootstrap
-- [ ] Anthropic agent loop with GitHub + Sentry tools
-- [ ] Telegram bot: allowlist, wire agent, typing indicators, split long replies
-- [ ] Background interval (5 min) stub for future monitors
-- [ ] README: setup, env, run on Mac
-- [ ] `npm run build` + smoke test
+- [x] Node/TS project: grammy, Anthropic SDK, Octokit, SQLite, zod
+- [x] Config + `.env.example`
+- [x] SQLite schema: messages + memory KV + migrations/bootstrap
+- [x] Anthropic agent loop with GitHub + Sentry tools
+- [x] Telegram bot: allowlist, wire agent, typing indicators, split long replies
+- [x] Background interval (5 min) stub for future monitors
+- [x] README: setup, env, run on Mac
+- [x] `npm run build` + smoke test
 - [ ] Commit, push, open PR
 
 ## Future (not V1)
